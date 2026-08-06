@@ -1,6 +1,6 @@
 # Hi there, I'm Cheta Nzeogu! 👋
 
-Software Developer • Frontend & Systems Frameworks
+Software Developer
 
 ---
 
