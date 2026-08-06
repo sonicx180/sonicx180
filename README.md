@@ -1,7 +1,27 @@
-<h1> Hi there! I'm Sonicx180</h1>
+# Hi there, I'm Cheta Nzeogu! 👋
 
-<h2> I'm a fullstack developer that dabbles in various activities</h2>
+Software Developer • Frontend & Systems Frameworks
 
-<br/>
-<h3>View my github stats here down below</h3>
-<img src = "https://github-readme-stats.vercel.app/api?username=sonicx180&theme=merko">
+---
+
+### 💻 About Me
+
+* 🚀 Building web applications using **Svelte** and exploring systems programming.
+* 🌐 Check out my personal website at [chetanzeogu.dev](https://chetanzeogu.dev).
+* 🛠️ Currently deploying personal projects on Vercel and DigitalOcean.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Frontend:** Svelte, JavaScript, HTML5, CSS3
+* **Infrastructure:** Vercel, DigitalOcean
+* **Tools:** Git, GitHub
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=sonicx180&theme=merko" alt="Sonicx180's GitHub Stats" />
+</p>
