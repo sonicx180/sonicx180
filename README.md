@@ -1,21 +1,21 @@
 # Hi there, I'm Cheta Nzeogu! 👋
 
-Software Developer
+**Software Developer**
 
 ---
 
 ### 💻 About Me
 
-* 🚀 Building web applications using **Svelte** and exploring systems programming.
+* 🚀 Building web applications using **Svelte** and currently learning **Rust**.
 * 🌐 Check out my personal website at [chetanzeogu.dev](https://chetanzeogu.dev).
-* 🛠️ Currently deploying personal projects on Vercel and DigitalOcean.
+* 🛠️ Currently deploying personal projects on Vercel.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-* **Frontend:** Svelte, JavaScript, HTML5, CSS3
-* **Infrastructure:** Vercel, DigitalOcean
+* **Languages & Frontend:** Svelte, JavaScript, Rust, HTML5, CSS3
+* **Infrastructure:** Vercel
 * **Tools:** Git, GitHub
 
 ---
